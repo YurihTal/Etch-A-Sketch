@@ -1,6 +1,10 @@
 .grid {
     display: grid;
-    grid-template-columns: 25%, 25%, 25%, 25%;
-    grid-template-rows: 25%, 25%, 25%, 25%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
     background-color: aqua;
+}
+
+.grid-item {
+    background-color: blue;
 }
