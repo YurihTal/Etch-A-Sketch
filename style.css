@@ -6,6 +6,7 @@
 
 .grid-item {
     border: solid 2px darkblue;
+    background-color: blue;
 }
 
 .grid-item:hover {
@@ -17,5 +18,5 @@
 }
 
 #color-change-id {
-    background-color: blue;
+    
 }
