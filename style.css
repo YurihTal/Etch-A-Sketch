@@ -7,5 +7,5 @@
 
 .grid-item {
     background-color: blue;
-
+    border: solid 2px darkblue;
 }
